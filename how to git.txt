@@ -11,3 +11,4 @@ git log --author="Bucky" lists all commits down by specfic author
 git status     lists all documents including untracked ones (ones that haven't been committed"
 git help git   
 git config --list
+git diff shows you the diffrences in your working copy to that of your repository
