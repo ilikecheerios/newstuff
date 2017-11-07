@@ -1,0 +1,6 @@
+
+pwd lists your pathway
+ls lists all documents in repository 
+cd .. change direcotry backwards
+cd folder goes into 
+thanks everyone
