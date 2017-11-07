@@ -19,3 +19,6 @@ git rm "third sample".txt removes from repository and from folder
 renaming git files
 git mv second.txt Samples/secondsample.txt moved file and moved them into another folder
 
+how to delete working copies
+
+git checkout -- index.html take something from the repository and make it your working copy
