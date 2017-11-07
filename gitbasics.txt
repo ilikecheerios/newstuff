@@ -22,3 +22,14 @@ git mv second.txt Samples/secondsample.txt moved file and moved them into anothe
 how to delete working copies
 
 git checkout -- index.html take something from the repository and make it your working copy
+
+git reset HEAD profile.html takes file from staging and returns as a working copy
+
+how to return to a specific git log 
+
+git checkout 01e7dba -- indx.html   returns a specific commit, go to this commit and get a copy of indx.html, moved the good version to working copy, need to commit still
+set up a remote // connection between computer and git account
+git remote add github
+https://github.com/ilikecheerios/tutorials.git
+
+how to push to github
