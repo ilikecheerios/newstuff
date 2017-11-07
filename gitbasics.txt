@@ -3,6 +3,7 @@ git pwd       lists your pathway
 git ls        lists all documents in repository 
 git cd ..     change direcotry backwards
 git cd folder goes into 
+git init MUST BE IN THE DIRECTORY FIRST BEFORE INITIALIZING
 
 git add .      saves all changes made
 git commit -m" descriptoin og how you changed" if you messed up, you can change from this point in time
@@ -14,3 +15,7 @@ git config --list
 git diff shows you the diffrences in your working copy to that of your repository
 git rm "third sample".txt removes from repository and from folder
 - need to commit that chnage
+
+renaming git files
+git mv second.txt Samples/secondsample.txt moved file and moved them into another folder
+
