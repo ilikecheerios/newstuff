@@ -12,3 +12,5 @@ git status     lists all documents including untracked ones (ones that haven't b
 git help git   
 git config --list
 git diff shows you the diffrences in your working copy to that of your repository
+git rm "third sample".txt removes from repository and from folder
+- need to commit that chnage
