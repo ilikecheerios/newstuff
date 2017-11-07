@@ -1,9 +1,13 @@
 
-pwd lists your pathway
-ls lists all documents in repository 
-cd .. change direcotry backwards
-cd folder goes into 
-thanks everyone
+git pwd       lists your pathway
+git ls        lists all documents in repository 
+git cd ..     change direcotry backwards
+git cd folder goes into 
 
-git add . saves all changes made
-git commit -m"descriptoin og how you changed" if you messed up, you can change from this point in time
+git add .      saves all changes made
+git commit -m" descriptoin og how you changed" if you messed up, you can change from this point in time
+git log        lists all the commits you did
+git log --author="Bucky" lists all commits down by specfic author
+git status     lists all documents including untracked ones (ones that haven't been committed"
+git help git   
+git config --list
