@@ -33,3 +33,4 @@ git remote add github
 https://github.com/ilikecheerios/tutorials.git
 
 how to push to github
+git push -u github master
